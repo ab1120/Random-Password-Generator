@@ -1,8 +1,10 @@
 from password_creator import Password
 import re
 #l=int(input("input password length : "))
+print("#####################################")
 print("Enter s for special symbols \nEnter u for Upper case Character\nEnter l for lower case")
 print("Enter d for digits \nCombinations can also be entered\n")
+print("#####################################")
 ch=str(input( "Enter characters : "))
 l=int(input("Input password length : "))
 if set(ch).issubset("suld"):
