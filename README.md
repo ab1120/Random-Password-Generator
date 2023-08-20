@@ -26,4 +26,4 @@ You can input combinations of these characters (e.g., "sld", "us", "ul", etc.) t
 
 2. Navigate to the repository directory.
 
-3. Run the script `password_structure.py`.
+3. Run the script `password_generator.py`.
